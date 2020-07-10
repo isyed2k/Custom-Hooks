@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.light {
+  background-color: lightblue;
+}
+.dark {
+  background-color: darkcyan;
+}
